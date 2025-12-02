@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hey, I'm Cipher Wolf  
 
-<!--
-**cipherwolf420/cipherwolf420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity & Bug Bounty Learner  
+🕵️‍♂️ Focused on Web Security, Recon, Manual Testing & CTFs  
+🚀 Building skills step-by-step and documenting everything openly.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- Recon tools: Subfinder, Assetfinder, Httpx, Naabu, Gau, Waybackurls, ParamSpider, Katana  
+- Vulnerabilities: XSS, SQLi basics, IDOR, LFI/RFI, SSRF, Open Redirect  
+- Burp Suite (Proxy, Repeater, Intruder basics)
+
+---
+
+## 📚 Current Learning
+- Manual Web Application Testing  
+- Vulnerabilities in depth (XSS, IDOR, SSRF, LFI, SQLi basics)  
+- Bash scripting  
+- Python automation  
+- CTF participation  
+
+---
+
+## 🔎 My Projects
+### 🔸 Bug Bounty Recon Methodology  
+Complete 27-step recon flow.  
+➡️ https://github.com/cipherwolf420/bugbounty-recon-methodology
+
+### 🔸 Cybersecurity Learning Notes  
+All my notes while learning web security and tools.  
+➡️ https://github.com/cipherwolf420/cybersecurity-learning-notes
+
+---
+
+## 🎯 Goals  
+- Become strong in manual testing  
+- Automate recon workflow using bash/python  
+- Get a cybersecurity internship  
+- Start finding real vulnerabilities  
+
+---
+
+Thanks for visiting! 🚀  
