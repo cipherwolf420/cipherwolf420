@@ -9,8 +9,8 @@
 ## 🛠️ Skills & Tools
 - Recon tools: Subfinder, Assetfinder, Httpx, Naabu, Gau, Waybackurls, ParamSpider, Katana  
 - Vulnerabilities: XSS, SQLi basics, IDOR, LFI/RFI, SSRF, Open Redirect  
-- Burp Suite (Proxy, Repeater, Intruder basics)
-
+- Burp Suite
+  
 ---
 
 ## 📚 Current Learning
@@ -26,10 +26,6 @@
 ### 🔸 Bug Bounty Recon Methodology  
 Complete 27-step recon flow.  
 ➡️ https://github.com/cipherwolf420/bugbounty-recon-methodology
-
-### 🔸 Cybersecurity Learning Notes  
-All my notes while learning web security and tools.  
-➡️ https://github.com/cipherwolf420/cybersecurity-learning-notes
 
 ---
 
